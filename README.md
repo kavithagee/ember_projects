@@ -1,1 +1,1 @@
-Learning EmberJs
+Learning ember.js
